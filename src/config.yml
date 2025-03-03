@@ -1,0 +1,4 @@
+server:
+    host: ""
+    port: 3001
+    environment: "" # Can leave empty if ENV variable "OSPRESERVATION_ENVIRONMENT" is set, ENV setting will take precedence. Possible values (dev, uat, prod)
